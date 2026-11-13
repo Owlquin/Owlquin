@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 🦉 About Me:
 My name is Alquin. I am currently reteaching myself how to code because I believe we need to have a strong foundation to be able to read and understand code. *hint* *hint* AI. I have professional experience working as a Linux System Administrator at Dominion Energy. Hopefully someday I will become a Software Developer/Software Engineer. I love  going to the gym and sleeping. 
 
 
-## 🌐 Socials:
+## 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cortezalquin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alquin.cortez@gmail.com) 
 
 # 💻 Tech Stack:
